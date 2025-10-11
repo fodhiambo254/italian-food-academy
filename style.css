@@ -4,6 +4,23 @@
     list-style: none;
 }
 
+.header{
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration: dotted;
+}
+#testimonials{
+    display: flex;
+    box-sizing: border-box;
+    border-radius: 25%;
+}
+.one{
+    box-sizing: content-box;
+    text-align: center;
+
+}
+
+
 #about img{
     height: auto;
     width: 40vw;
@@ -24,7 +41,7 @@
     text-align: center;
     text-decoration: underline;
 }
-=======
+
 #contact h1 {
   text-align: center;
   color: #333;
@@ -114,19 +131,13 @@
   text-align: center;
   padding: 40px 20px;
 }
- 
-
-
 form {
   max-width: 400px;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
   gap: 10px;
-}
-    
-
-
+}  
 button {
   background-color: #f39c12;
   border: none;
