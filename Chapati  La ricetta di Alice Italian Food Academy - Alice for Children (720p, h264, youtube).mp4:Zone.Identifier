@@ -1,0 +1,23 @@
+<title>italian-food-academy</title> <link rel="stylesheet" href="./style.css"> </head> <body> <div id="nav"> <ul> <a href="#home"><li>home</li></a> <a href="#about"><li>about</li></a> <a href="#course"><li>course</li></a> <a href="#testimonials"><li>testimonials</li></a> <a href="#footer"><li>footer</li></a> </ul> </div> <div id="home"></div> <div id="about"></div> <div id="course"></div> <div id="testimonials"></div> <div id="footer"> <div id="contact"> <h1>Contact Us</h1> <p><strong>Title:</strong>Italian food </p> <p><strong>Email:</strong> @alice digital school</p> <form> <label for="name">Name:</label> <input type="text" id="name" name="name" placeholder="Enter your name" required> <label for="email">Email:</label> <input type="email" id="email" name="email" placeholder="Enter your email" required> <label for="message">Message:</label> <textarea id="message" name="message" rows="5" placeholder="Type your message" required></textarea> <button type="submit">Send Message</button> </form> </div> </div> </div> </body> </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
