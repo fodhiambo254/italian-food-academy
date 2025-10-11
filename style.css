@@ -1,9 +1,30 @@
 #nav ul{
-    display: flex;
     justify-content: space-around;
     background-color: aqua;
     list-style: none;
 }
+
+#about img{
+    height: auto;
+    width: 40vw;
+    border-radius: 25% ;
+    padding: 3%;
+}
+#about{
+    display: flex;
+    background-color: deeppink;
+}
+#about p{
+    text-align: center;
+    margin-top: 3%;
+    padding: 5%;
+}
+.header{
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration: underline;
+}
+=======
 #contact h1 {
   text-align: center;
   color: #333;
