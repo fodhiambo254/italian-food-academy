@@ -4,3 +4,15 @@
     background-color: aqua;
     list-style: none;
 }
+#testimonials img{
+    height: 200px;
+    width: 200px;
+    border-radius: 25% 0 25% 0;
+}
+#testimonials{
+    text-align: center;
+    display: flex;
+    text-transform: capitalize;
+    background-color: yellowgreen;
+}
+    
