@@ -122,7 +122,6 @@
 }
    
 
-/* Footer styling */
 #footer {
   background-color: rgba(0, 118, 148, 0.68); 
  
@@ -148,4 +147,53 @@ button {
   border-radius: 5px;
   font-weight: bold;
 }
+
+
+.total{
+display: flex;
+text-transform: capitalize;
+}
+ 
+.total img {
+  border-radius: 50%;
+}
+
+.total h2{
+  text-decoration: underline;
+  color:#000;
+}
+
+
+#courses{
+  display: flex;
+  background-color: rgb(234, 255, 0);
+padding: 5%;
+
+}
+
+#courses img{
+border-radius: 1%;
+margin-top: 1%;
+}
+
+.courses h4{
+  padding: 5%;
+  text-decoration: underline;
+   text-align: center;
+}
+
+.hezbon{
+  text-align: center;
+  color: red;
+  background-color: #333;
+}
+
+
+
+
+
+
+
+
+
 
