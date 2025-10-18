@@ -4,3 +4,31 @@
     background-color: aqua;
     list-style: none;
 }
+ #home {
+    border-radius: 25% 0 25% 0;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    box-sizing: content-box;
+    padding: 0%;
+    
+}
+#home img{
+    border-radius: 25%;
+    background-size: cover;
+    box-sizing: content-box;
+    background-size: cover;
+}
+
+
+
+
+h1{
+    text-align: center;
+    color: blue;
+}
+    
+
+body{
+    background-color: yellow;
+}
