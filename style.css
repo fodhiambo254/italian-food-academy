@@ -1,9 +1,9 @@
 #nav ul{
-    display: flex;
     justify-content: space-around;
     background-color: aqua;
     list-style: none;
 }
+
  #home {
     border-radius: 25% 0 25% 0;
     align-items: center;
@@ -32,3 +32,212 @@ h1{
 body{
     background-color: yellow;
 }
+
+
+#testimonials img{
+    height: 200px;
+    width: 200px;
+    border-radius: 25% 0 25% 0;
+}
+#testimonials{
+    text-align: center;
+    display: flex;
+    text-transform: capitalize;
+    background-color: yellowgreen;
+}
+    
+
+.header{
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration: dotted;
+}
+#testimonials{
+    display: flex;
+    box-sizing: border-box;
+    border-radius: 25%;
+}
+.one{
+    box-sizing: content-box;
+    text-align: center;
+
+}
+
+
+#about img{
+    height: auto;
+    width: 40vw;
+    border-radius: 25% ;
+    padding: 3%;
+}
+#about{
+    display: flex;
+    background-color: deeppink;
+}
+#about p{
+    text-align: center;
+    margin-top: 3%;
+    padding: 5%;
+}
+.header{
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#contact h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+  color: red;
+}
+
+#contact form {
+  max-width: 500px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+#contact label {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+#contact input,
+#contact textarea {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+#contact button {
+  margin-top: 15px;
+  padding: 10px;
+  background-color: green;  
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#contact button:hover {
+  background-color:green; 
+}
+
+
+.footer-bottom {
+  text-align: center;
+  padding: 20px;
+  background-color: #333;
+  color: white;
+  margin-top: 30px;
+  border-top: 2px solid #aaa;
+}
+
+.footer-logo {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+
+.footer-video {
+  text-align: center;
+  margin: 30px 0;
+}
+
+.footer-video h2 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.footer-video video {
+  width: 80%;
+  max-width: 500px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+   
+
+#footer {
+  background-color: rgba(0, 118, 148, 0.68); 
+ 
+  background-size: cover; 
+  background-position: center;
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+}
+form {
+  max-width: 400px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}  
+button {
+  background-color: #f39c12;
+  border: none;
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+
+.total{
+display: flex;
+text-transform: capitalize;
+}
+ 
+.total img {
+  border-radius: 50%;
+}
+
+.total h2{
+  text-decoration: underline;
+  color:#000;
+}
+
+
+#courses{
+  display: flex;
+  background-color: rgb(234, 255, 0);
+padding: 5%;
+
+}
+
+#courses img{
+border-radius: 1%;
+margin-top: 1%;
+}
+
+.courses h4{
+  padding: 5%;
+  text-decoration: underline;
+   text-align: center;
+}
+
+.hezbon{
+  text-align: center;
+  color: red;
+  background-color: #333;
+}
+
+
+
+
+
+
+
+
+
+
+
